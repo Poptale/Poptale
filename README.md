@@ -1,0 +1,7 @@
+- 👋 Hi, I’m Poptale, my real name is Pratik Jha.
+- 👀 I’m interested in Progamming [web development], sketching, chess, rubik's cube, music, universe, technology, and much more.
+- 🌱 I’m currently learning Javascipt.
+- 💞️ I’m looking to collaborate on some Javascipt projects.
+- 📫 You can e-mail me to reach me.
+- 😄 Pronouns: he/his/him
+- ⚡ Fun fact: I am 16 year old boy, a student, in 11th standard.
